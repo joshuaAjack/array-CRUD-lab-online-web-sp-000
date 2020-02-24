@@ -9,9 +9,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  famous_cats = ["lil' bub", "grumpy cat", "Maru"]
- 
-famous_cats.push("nala cat")
+  array = ["wow", "I", "am", "really", "learning"]
+    element = "arrays!"
+    add_element_to_start_of_array.push("arrays!")
   
 end
 
